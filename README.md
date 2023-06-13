@@ -1,7 +1,7 @@
 # Using VScode DevContainers for a clean dev env
 This is a starting point to allow ansible dev work, using Windows, VSCode and Rancher Desktop as the dev env. Saves havign a seperate linux box to run ansible from, making a portable env for our windows desktop world.
 
-##TODO
+## TODO
 - [ ] Add VMware tools
 - [ ] pre-populate ansible collections
 - [ ] offline/IMPEX ready
